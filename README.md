@@ -1,0 +1,2 @@
+# RonysocClient
+使用腾讯官方PythonSDK实现的多功能qq频道bot
